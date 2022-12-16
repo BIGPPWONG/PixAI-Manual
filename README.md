@@ -4,7 +4,7 @@ Manual for PixAI iOS Super Resolution App
 ## What is this app for ?
 PixAI is a software built for iOS device that focuses on using AI algorithm to improve image definition. It can easily enlarge low resolution images by 16X.   
 
-<img src="1.jpg" width="250"><img src="2.jpg" width="250">
+<img src="1.jpg" width="250"><img src="2.jpg" width="250">   
 <img src="3.jpg" width="250"><img src="4.jpg" width="250">
 
 ## Where can I get this app ?
